@@ -1,0 +1,17 @@
+{
+    "65a34118557927ed21025e99": {
+        "@context": "/contexts/Account",
+        "@id": "/accounts/65a34118557927ed21025e99",
+        "@type": "Account",
+        "id": "65a34118557927ed21025e99",
+        "address": "ldusmdetty@jcnorris.com",
+        "quota": 40000000,
+        "used": 0,
+        "isDisabled": false,
+        "isDeleted": false,
+        "createdAt": "2024-01-14T02:04:08+00:00",
+        "updatedAt": "2024-01-14T02:04:08+00:00",
+        "password": "@^qg0#psBy",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3MDUxOTc4NDksInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoibGR1c21kZXR0eUBqY25vcnJpcy5jb20iLCJpZCI6IjY1YTM0MTE4NTU3OTI3ZWQyMTAyNWU5OSIsIm1lcmN1cmUiOnsic3Vic2NyaWJlIjpbIi9hY2NvdW50cy82NWEzNDExODU1NzkyN2VkMjEwMjVlOTkiXX19.GcXqJ1TZpElVdkat2QdEUy1K3ENKtA1jrpLjve1Iu81T3ZLrNtBhhLQ3oVaZPfg3ThNsWGbCuUKJcfYsrI6BKw"
+    }
+}
